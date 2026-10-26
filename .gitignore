@@ -1,0 +1,21 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Generated output files
+outputs/*.csv
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+
+FUTURE_ML_03/
