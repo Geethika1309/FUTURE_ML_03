@@ -1,5 +1,6 @@
 # Resume Screening and Candidate Ranking System
 
+
 ## About the Project
 
 The Resume Screening and Candidate Ranking System is a Python-based application that compares resume text with a job description.
